@@ -1,0 +1,1 @@
+<input type="text" class="inputbox" id="regulation_id" name="regulation_id[]" placeholder="Enter new regulation">
